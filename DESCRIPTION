@@ -1,0 +1,10 @@
+Package: HybridPackage
+Type: Package
+Title: This package compresses and decompresses a string using RLE algorithm and lz77 algorithm .
+Version: 0.1.0
+Author: SudhaRani Rangapale
+Maintainer: SudhaRani Rangapale <rangapalesudharani@gmail.com>
+Description: This pacakge consists of compresor and decompressor.Hybrid compressor compresses a string using RLE compressor followed bylz77 compressor whereas hybrid decompressor dcompresses a string using lz77 decompressor followed by RLE decompressor
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
